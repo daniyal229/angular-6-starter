@@ -12,6 +12,6 @@ import { ServerComponent } from "./server/server.component";
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent,ServerComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
